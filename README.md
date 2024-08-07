@@ -1,1 +1,1 @@
-
+Traditional diagnostic methods are time-consuming, costly, and often fail to account for the multifactorial nature of diabetes risk, including genetic, lifestyle, and physiological factors. We aim to build a machine learning model predicting type 2 diabetes risk using nutrition and lifestyle data. By analyzing individual food intake and habits, our model helps predict future T2D risk, considering familial tendencies and environmental factors.
